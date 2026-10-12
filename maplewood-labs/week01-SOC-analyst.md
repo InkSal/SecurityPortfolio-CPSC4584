@@ -1,13 +1,11 @@
-
 # Week 1: SOC Analyst Onboarding
-
-**Course:** CPSC 4584 | Special Topics in Information Security  
-**Date:** August 31, 2026  
+**Course:** CPSC 4584 | Special Topics in Information Security
+**Date:**  August 31, 2026 
 **Analyst:** Inka Salinas
 
 ---
 
-## Maplewood Asset I Consider Highest Risk
+## Incident Summary
 
 I consider the Electronic Health Record (EHR) system Maplewood's highest-risk asset because it contains protected health information (PHI) for more than 140,000 active patients. Confidentiality is essential to prevent unauthorized disclosure, integrity ensures that diagnoses and treatment records remain accurate, and availability allows healthcare providers to access the information needed to deliver safe patient care.
 
@@ -72,5 +70,4 @@ Observation: Reading the documentation helped me understand the Linux environmen
 This semester, I want to strengthen my understanding of security operations, incident investigation, threat detection, and evidence handling. I want to become more comfortable using Linux commands, examining logs, and identifying indicators of suspicious activity. I also want to improve my ability to distinguish legitimate activity from potential threats, document findings accurately, and determine when an alert should be escalated. By practicing these skills throughout CPSC 4584, I hope to build a strong foundation in cybersecurity and prepare for future opportunities in information security.
 
 ---
-
 *CPSC 4584 | Governors State University | Fall 2026*
