@@ -1,0 +1,76 @@
+
+# Week 1: SOC Analyst Onboarding
+
+**Course:** CPSC 4584 | Special Topics in Information Security  
+**Date:** August 31, 2026  
+**Analyst:** Inka Salinas
+
+---
+
+## Maplewood Asset I Consider Highest Risk
+
+I consider the Electronic Health Record (EHR) system Maplewood's highest-risk asset because it contains protected health information (PHI) for more than 140,000 active patients. Confidentiality is essential to prevent unauthorized disclosure, integrity ensures that diagnoses and treatment records remain accurate, and availability allows healthcare providers to access the information needed to deliver safe patient care.
+
+---
+
+## My Analyst Role Takeaway
+
+As a Tier 1 SOC analyst, my responsibility is to monitor security alerts, investigate suspicious activity using available tools, document findings, and escalate incidents to Tier 2 when they exceed my authority or expertise. I should collect relevant evidence and follow established procedures rather than independently making remediation decisions or modifying production systems.
+
+---
+
+## Career Track Selected
+
+**Track:** [Enter the career track you selected during the lecture]
+
+**Why:** My background in information technology has motivated me to strengthen my cybersecurity knowledge and develop practical security investigation skills. I want to improve my ability to analyze security events, recognize potential threats, document evidence, and communicate findings effectively.
+
+---
+
+## Terminal Commands Practiced
+
+| Command | What It Does |
+|---------|-------------|
+| `pwd` | Displays the current working directory, helping me identify my location in the Linux filesystem. |
+| `ls -la` | Lists directory contents, including hidden files, along with details such as permissions, ownership, file sizes, and modification dates. |
+| `cat README.txt` | Displays the contents of a text file. I used this command to read the CyLab Security Academy README and learn about available tools, shell navigation, and webshell restrictions. |
+
+### Terminal Log Evidence
+
+**Entry 1 — Print Working Directory**
+
+Command:
+`pwd`
+
+Output:
+`/home/isal-academy`
+
+Observation: The command identified the current working directory, establishing my location in the filesystem.
+
+**Entry 2 — List Directory Contents**
+
+Command:
+`ls -la`
+
+Output summary: The command displayed hidden files, configuration files, scripts, the `README.txt` file, and directories such as `evidence/` and `traces/`. It also displayed file permissions, ownership, sizes, and modification dates.
+
+Observation: The directory listing helped me identify available files and potential resources for further investigation. File names alone do not establish whether an item is malicious.
+
+**Entry 3 — Read a File**
+
+Command:
+`cat README.txt`
+
+Output summary: The README explained how to use the CyLab webshell, navigate directories, list files, read text files, execute programs, access command manuals, and transfer files.
+
+Observation: Reading the documentation helped me understand the Linux environment and the available tools and restrictions before performing security investigations.
+
+---
+
+## What I Want to Learn This Semester
+
+This semester, I want to strengthen my understanding of security operations, incident investigation, threat detection, and evidence handling. I want to become more comfortable using Linux commands, examining logs, and identifying indicators of suspicious activity. I also want to improve my ability to distinguish legitimate activity from potential threats, document findings accurately, and determine when an alert should be escalated. By practicing these skills throughout CPSC 4584, I hope to build a strong foundation in cybersecurity and prepare for future opportunities in information security.
+
+---
+
+*CPSC 4584 | Governors State University | Fall 2026*
